@@ -14,7 +14,7 @@
   <h1>Locadora Top</h1>
   <div>
     <a href=<?php echo "/fatec-locadora-carro/?pagina=src/paginas/listar.php&ordem=veiculo"; ?> >Listar por ordem alfabética</a><br>
-    <a href=<?php echo "/fatec-locadora-carro/?pagina=src/paginas/listar.php&ordem=marca"; ?> >Listar por marca e modelo</a><br>
+    <a href=<?php echo "/fatec-locadora-carro/?pagina=src/paginas/listar.php&ordem=marca,modelo"; ?> >Listar por marca e modelo</a><br>
     <a href=<?php echo "/fatec-locadora-carro/?pagina=src/paginas/listar.php&ordem=tipo"; ?> >Listar por tipo</a><br>
   </div>
   <br><br>
